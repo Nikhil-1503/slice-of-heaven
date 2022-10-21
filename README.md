@@ -6,13 +6,13 @@
 
 ## About
 
-### Participants
+### Participant
 
 #### Nikhil Shanbhag
 
-Github : @Nikhil-1503 <br></br>
-Discord : nikhil.1503#9740 <br></br>
-Twitter : @Nikhil_1503
+- Github : @Nikhil-1503
+- Discord : nikhil.1503#9740
+- Twitter : @Nikhil_1503
 
 ### Description
 
@@ -40,8 +40,6 @@ A pizza shop storefront powered by using NextJs combined with MedusaJs.
 ![Image 3](images/img_three.png)
 
 ## Set up Project
-
-You need following requirement to setup your project:
 
 ### Prerequisites
 
