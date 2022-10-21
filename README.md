@@ -20,6 +20,8 @@ A pizza shop storefront powered by using NextJs combined with MedusaJs.
 
 ### Preview
 
+#### GIFs
+
 - HomePage <br/><br/>
 ![HomePage](https://media.giphy.com/media/FWWvWvaJb4CkAA6kd4/giphy.gif)
 - Products and Collection <br/><br/>
@@ -29,6 +31,10 @@ A pizza shop storefront powered by using NextJs combined with MedusaJs.
 - Cart and Checkout <br/><br/>
 ![Cart and Checkout](https://media.giphy.com/media/9gas3pLBGL2rp5yJ2V/giphy.gif)
 ## Set up Project
+
+#### Screenshots
+
+
 
 You need following requirement to setup your project:
 
@@ -41,6 +47,31 @@ You need following requirement to setup your project:
 
 ### Install Project
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Nikhil-1503/slice-of-heaven.git
+```
+
+2. Change directory and install dependencies:
+
+```bash
+cd slice-of-heaven
+cd backend
+medusa develop
+```
+
+3. Open another terminal from slice-of-heaven folder:
+```bash
+cd storefront 
+npm install
+npm run dev
+```
+
+4. Open the project in your browser:
+```bash
+http://localhost:8000
+```
 
 ## Resources
 - [Medusa’s GitHub repository](https://github.com/medusajs/medusa)
