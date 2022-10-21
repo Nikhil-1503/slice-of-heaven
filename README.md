@@ -2,7 +2,7 @@
 
 ## Cover Image
 
-<img src="Cover.png" width="600" height="300">
+<img src="Cover.png" width="700" height="400">
 
 ## About
 
@@ -30,20 +30,21 @@ A pizza shop storefront powered by using NextJs combined with MedusaJs.
 ![Price Change](https://media.giphy.com/media/QbqE1yi5ZHHJG0jcPX/giphy.gif)
 - Cart and Checkout <br/><br/>
 ![Cart and Checkout](https://media.giphy.com/media/9gas3pLBGL2rp5yJ2V/giphy.gif)
-## Set up Project
+- Medusa Admin Panel<br><br/>
+![Medusa Admin](https://media.giphy.com/media/QZrMp6CE3ov9n6AHSY/giphy.gif)
 
 #### Screenshots
 
-
+## Set up Project
 
 You need following requirement to setup your project:
 
 ### Prerequisites
 
 - Medusa CLI (```npm install -g @medusajs/medusa-cli```) .
-- Redis (https://redis.io/)
-- PostgreSQL (https://www.postgresql.org/)
-- Node (https://node.org/)
+- [Redis](https://redis.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Node](https://node.org/)
 
 ### Install Project
 
@@ -78,3 +79,10 @@ http://localhost:8000
 - [Medusa Admin Panel](https://github.com/medusajs/admin)
 - [Medusa Documentation](https://docs.medusajs.com/)
 - [Medusa Next.js Starter](https://github.com/medusajs/nextjs-starter-medusa)
+- [MinIO Documentation](https://min.io/docs/minio/windows/index.html)
+
+## What's next for this project
+- Planning to integrate payment plugin (Tried Stripe, but got error) and search plugin.
+- Add more products.
+- Improve the design.
+- Deploy the storefront.
