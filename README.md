@@ -35,6 +35,10 @@ A pizza shop storefront powered by using NextJs combined with MedusaJs.
 
 #### Screenshots
 
+![Image 1](images/img_one.png)
+![Image 2](images/img_two.png)
+![Image 3](images/img_three.png)
+
 ## Set up Project
 
 You need following requirement to setup your project:
