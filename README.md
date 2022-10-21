@@ -23,15 +23,15 @@ A pizza shop storefront powered by using NextJs combined with MedusaJs.
 #### GIFs
 
 - HomePage <br/><br/>
-![HomePage](https://media.giphy.com/media/FWWvWvaJb4CkAA6kd4/giphy.gif)
+![HomePage](images/gif_one.gif)
 - Products and Collection <br/><br/>
-![Products](https://media.giphy.com/media/WCFEA2Q9H7FTiHjB2y/giphy.gif)
+![Products](images/gif_two.gif)
 - Price Change On Choosing Different Combination <br/><br/>
-![Price Change](https://media.giphy.com/media/QbqE1yi5ZHHJG0jcPX/giphy.gif)
+![Price Change](images/gif_three.gif)
 - Cart and Checkout <br/><br/>
-![Cart and Checkout](https://media.giphy.com/media/9gas3pLBGL2rp5yJ2V/giphy.gif)
+![Cart and Checkout](images/gif_four.gif)
 - Medusa Admin Panel<br><br/>
-![Medusa Admin](https://media.giphy.com/media/QZrMp6CE3ov9n6AHSY/giphy.gif)
+![Medusa Admin](images/gif_five.gif)
 
 #### Screenshots
 
